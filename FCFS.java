@@ -73,7 +73,7 @@ wt[i] ) ;
 }
 sc.close();
 System.out.println("\naverage waiting time: "+ (avgwt/n)); 
-System.out.println("average turnaround time:"+(avgta/n)); // printing average
+System.out.println("average turnaround time:"+(avgta/n)); 
 
 }
 }
